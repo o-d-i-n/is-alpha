@@ -6,7 +6,9 @@ Checks whether passed string contains only alphabets.
 ```js
 const isAlpha = require('is-alpha');
 
-isAlpha('Some string with english alphabets');
+if(isAlpha('Some string with english alphabets')) {
+  console.log('pure english');
+}
 ```
 ## Development
 ```bash
