@@ -1,12 +1,12 @@
 # is-alpha
 
-Checks whether passed string contains only alphabets.
+Checks whether passed string contains alphabets, digits and vocabulory.
 
 ## Usage
 ```js
 const isAlpha = require('is-alpha');
 
-if(isAlpha('Some string with english alphabets')) {
+if(isAlpha.enSentence('Some string with english alphabets')) {
   console.log('pure english');
 }
 ```
