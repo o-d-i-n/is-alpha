@@ -1,6 +1,6 @@
 # is-alpha
 
-Checks whether passed string contains only alphabets.
+Checks whether passed string contains alphabets, digits and vocabulory.
 
 ## Usage
 ```js
