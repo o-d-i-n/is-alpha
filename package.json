@@ -3,10 +3,19 @@
   "version": "0.0.1",
   "description": "Checks if passed string contains only alphabets and vocabulary",
   "main": "index.js",
+  "keywords": [
+    "string",
+    "validation",
+    "alphanumeric",
+    "english"
+  ],
   "scripts": {
     "test": "node_modules/.bin/ava test.js"
   },
-  "author": "bogas04",
+  "contributors": [
+    "bogas04 <bogas04@gmail.com> (bogas04.github.io)",
+    "mbad0la <mbad0la@outlook.com> (mbad0la.github.io)"
+  ],
   "license": "MIT",
   "devDependencies": {
     "ava": "^0.11.0"
