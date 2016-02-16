@@ -1,8 +1,3 @@
-/*
-module.exports = function (string) {
-  return /^[a-zA-Z\.,\-() \n\r]*$/.test(string);
-};
-*/
 module.exports = {
   devCode: (string) => {
     return /^[a-zA-Z0-9!"#$%&'()*+,.\\\/:;<=>?@\[\] ^_`{|}~-\s\r\n\t]+$/.test(string);
