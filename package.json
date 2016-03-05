@@ -1,6 +1,6 @@
 {
-  "name": "is-alpha",
-  "version": "0.0.1",
+  "name": "is-alphabet",
+  "version": "0.0.5",
   "description": "Checks if passed string contains alphabets, digits and vocabulary",
   "main": "index.js",
   "keywords": [
